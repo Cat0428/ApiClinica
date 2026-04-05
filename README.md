@@ -128,4 +128,6 @@ Se verifica que el repositorio y la generación de alertas funcionen correctamen
 
 ![image alt](https://github.com/Cat0428/ApiClinica/blob/51eeddd01f341fa7cf423ed297ab75d2b22b1cf2/Comportamiento%20Esperado%20Test1.png)
 
+![image alt](https://github.com/Cat0428/ApiClinica/blob/0054515380749eaf8f670902edc7b54886e61122/Comportamiento%20Esperado%20Test.png)
+
 
