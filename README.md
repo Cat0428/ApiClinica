@@ -120,6 +120,8 @@ Se registra un examen con valor normal.
 Caso inválido
 Se registra un examen con valor fuera del rango permitido y se genera alerta.
 
+![image alt](https://github.com/Cat0428/ApiClinica/blob/a66319429b3fa659d6afa4fd0892b1a036cc3d1a/Caso%20Fuera%20de%20Rango.png)
+
 Comportamiento esperado
 Se verifica que el repositorio y la generación de alertas funcionen correctamente.
 
