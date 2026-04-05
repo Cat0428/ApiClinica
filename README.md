@@ -126,4 +126,6 @@ Se registra un examen con valor fuera del rango permitido y se genera alerta.
 Comportamiento esperado
 Se verifica que el repositorio y la generación de alertas funcionen correctamente.
 
+![image alt](https://github.com/Cat0428/ApiClinica/blob/51eeddd01f341fa7cf423ed297ab75d2b22b1cf2/Comportamiento%20Esperado%20Test1.png)
+
 
