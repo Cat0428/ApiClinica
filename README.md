@@ -115,6 +115,8 @@ Se registra un examen con valor normal.
 
 ![image alt](https://github.com/Cat0428/ApiClinica/blob/74ee32751f99270f039d7f19086d5e458e87b7d6/Caso%20exitoso%20en%20Postman.png)
 
+![image alt](https://github.com/Cat0428/ApiClinica/blob/d91d28a41c5a9e97b587e27995cc6fe62d3976a0/Caso%20existoso%20Consola.png)
+
 Caso inválido
 Se registra un examen con valor fuera del rango permitido y se genera alerta.
 
