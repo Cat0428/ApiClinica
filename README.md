@@ -113,6 +113,8 @@ Se implementaron pruebas unitarias para validar:
 Caso exitoso
 Se registra un examen con valor normal.
 
+![image alt](https://github.com/Cat0428/ApiClinica/blob/2646a3e9743c658a0e1430a8a8caddc63bf3feab/Pruebas%20Unitarias1.png)
+
 Caso inválido
 Se registra un examen con valor fuera del rango permitido y se genera alerta.
 
