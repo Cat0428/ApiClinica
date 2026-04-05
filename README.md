@@ -26,40 +26,43 @@ Capas implementadas:
 - Adaptadores de entrada
 - Adaptadores de salida
 
-## Estructura del proyecto
+## Estructura del Proyecto
 
+```
 com.clinica
 │
 ├── domain
-│ ├── model
-│ │ ├── Examen.java
-│ │ └── Alerta.java
-│ └── service
-│ └── EvaluadorRangoService.java
+│   ├── model
+│   │   ├── Examen.java
+│   │   └── Alerta.java
+│   │
+│   └── service
+│       └── EvaluadorRangoService.java
 │
 ├── application
-│ ├── ports
-│ │ ├── input
-│ │ │ └── RegistrarExamenUseCase.java
-│ │ └── output
-│ │ ├── ExamenRepositoryPort.java
-│ │ └── AlertaRepositoryPort.java
-│
-│ └── usecase
-│ └── RegistrarExamenUseCaseImpl.java
+│   ├── ports
+│   │   ├── input
+│   │   │   └── RegistrarExamenUseCase.java
+│   │   │
+│   │   └── output
+│   │       ├── ExamenRepositoryPort.java
+│   │       └── AlertaRepositoryPort.java
+│   │
+│   └── usecase
+│       └── RegistrarExamenUseCaseImpl.java
 │
 ├── adapters
-│ ├── input
-│ │ └── rest
-│ │ └── ExamenController.java
-│
-│ └── output
-│ └── repository
-│ └── ExamenRepositoryMemory.java
+│   ├── input
+│   │   └── rest
+│   │       └── ExamenController.java
+│   │
+│   └── output
+│       └── repository
+│           └── ExamenRepositoryMemory.java
 │
 └── config
-└── BeanConfiguration.java
-
+    └── BeanConfiguration.java
+```
 ## Explicación de componentes
 
 Dominio:
